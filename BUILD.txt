@@ -1,0 +1,2 @@
+Build Command:
+gcc `pkg-config --cflags gtk+-3.0 --libs gtk+-3.0` `pkg-config --cflags vte-2.91 --libs vte-2.91` `pkg-config --cflags glib-2.0 --libs glib-2.0 `  
